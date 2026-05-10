@@ -51,9 +51,7 @@ say_hi();
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Languages%20%26%20Tools&fontAlign=50&fontColor=710E0E&fontSize=30&fontAlignY=50&font=Indie+Flower" alt="Languages & Tools" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -89,14 +87,6 @@ say_hi();
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=GitHub%20Stats&fontAlign=50&fontColor=710E0E&fontSize=30&fontAlignY=50&font=Indie+Flower" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/samriddhipyakurel">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=samriddhipyakurel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/samriddhipyakurel">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samriddhipyakurel&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/samriddhipyakurel">
