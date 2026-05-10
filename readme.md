@@ -18,7 +18,9 @@
 
 ---
 
-###  About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=About%20Me&fontAlign=50&fontColor=710E0E&fontSize=30&fontAlignY=50&font=Indie+Flower" alt="About Me" />
+</p>
 
 -  I'm currently pursuing my **Bachelor in Data Science**.
 -  Actively exploring **Machine Learning, Artificial Intelligence, and Data Analytics**.
@@ -28,7 +30,9 @@
 
 <br/>
 
-### � Who Am I?
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Who%20Am%20I%3F&fontAlign=50&fontColor=710E0E&fontSize=30&fontAlignY=50&font=Indie+Flower" alt="Who Am I?" />
+</p>
 
 ```python
 import SamriddhiPyakurel as me:
@@ -47,7 +51,9 @@ say_hi();
 
 <br/>
 
-### �🛠️ Languages & Tools
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Languages%20%26%20Tools&fontAlign=50&fontColor=710E0E&fontSize=30&fontAlignY=50&font=Indie+Flower" alt="Languages & Tools" />
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -57,7 +63,9 @@ say_hi();
 
 <br/>
 
-###  GitHub Trophies
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=GitHub%20Trophies&fontAlign=50&fontColor=710E0E&fontSize=30&fontAlignY=50&font=Indie+Flower" alt="GitHub Trophies" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=samriddhipyakurel&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
@@ -65,20 +73,30 @@ say_hi();
 
 <br/>
 
-###  GitHub Stats & Badges
-
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=samriddhipyakurel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samriddhipyakurel&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=GitHub%20Stats&fontAlign=50&fontColor=710E0E&fontSize=30&fontAlignY=50&font=Indie+Flower" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samriddhipyakurel&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/samriddhipyakurel">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=samriddhipyakurel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/samriddhipyakurel">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samriddhipyakurel&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/samriddhipyakurel">
+    <img src="https://streak-stats.demolab.com/?user=samriddhipyakurel&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 <br/>
 
-###  My Contribution Graph
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=My%20Contribution%20Graph&fontAlign=50&fontColor=710E0E&fontSize=30&fontAlignY=50&font=Indie+Flower" alt="My Contribution Graph" />
+</p>
 
 <p align="center">
   <picture>
@@ -90,11 +108,25 @@ say_hi();
 
 <br/>
 
-###  Just for Fun!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Words%20I%20Live%20By&fontAlign=50&fontColor=710E0E&fontSize=30&fontAlignY=50&font=Indie+Flower" alt="Words I Live By" />
+</p>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Developer Joke" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+only+way+to+do+great+work+is+to+love+what+you+do.&author=Steve+Jobs" alt="Quote" />
 </p>
+
+<p align="center"><i>
+  "In God we trust. All others must bring data." — W. Edwards Deming
+</i></p>
+
+<p align="center"><i>
+  "The goal is to turn data into information, and information into insight." — Carly Fiorina
+</i></p>
+
+<p align="center"><i>
+  "Without data, you're just another person with an opinion." — W. Edwards Deming
+</i></p>
 
 ---
 
