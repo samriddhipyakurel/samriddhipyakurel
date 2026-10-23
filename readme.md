@@ -11,6 +11,19 @@
   <a href="mailto:samriddhipyakurel666@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  ### Let's Connect 🌐
+
+
+
+<a href="https://www.linkedin.com/in/samriddhipyakurel" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+<a href="https://www.instagram.com/samriddhi__pyakurel?psln=cWk5YncxdTl6MHE%3D&utm_source=qr" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
+
+
   <a href="https://github.com/samriddhipyakurel">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
